@@ -77,8 +77,8 @@ public class email extends JFrame {
 			public void actionPerformed(ActionEvent arg0) {
 				
 				   
-			       final String from = "javaemailtestbysayem@gmail.com";
-			      final  String password = "123456j@va";
+			       final String from = "javaemail******@gmail.com";
+			      final  String password = "*******";
 			        String to = textField.getText().toString();
 			        String msg=txt.getText();
 			        Properties props = new Properties();
